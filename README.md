@@ -13,6 +13,11 @@ pre-trained models and structures.
 
 [MediaPipe Face Mesh]:
   https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection
+  
+Require Unity Barracuda
+  https://github.com/Unity-Technologies/barracuda-release
+Installing Barracuda
+  https://github.com/Unity-Technologies/barracuda-release/blob/release/3.0.0/Documentation~/Installing.md
 
 Related projects
 ----------------
